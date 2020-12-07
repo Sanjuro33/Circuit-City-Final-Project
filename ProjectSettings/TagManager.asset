@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turnRight
+  - turnBack
+  - turnLeft
+  - totalVoltage
+  - parallel1
+  - series
+  - parallel1.1
+  - parallel1.2
+  - parallel
+  - parallel1.3
+  - turnIndicator
+  - None
+  - parallel2
+  - parallel3
+  - parallel4
+  - parallel5
+  - parallel6
+  - parallel2.1
+  - parallel2.2
+  - parallel2.3
+  - parallel3.1
+  - parallel3.2
+  - parallel3.3
+  - parallel4.1
+  - parallel4.2
+  - parallel4.3
+  - parallel1.4
+  - parallel1.5
+  - parallel1.6
+  - parallel1.7
+  - parallel1.8
+  - parallel1.9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
